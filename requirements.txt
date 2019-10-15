@@ -1,0 +1,4 @@
+wwo-hist
+numpy
+pandas
+plotly
